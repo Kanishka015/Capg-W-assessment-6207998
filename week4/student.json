@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "Aryan",
+    "lastName": "Upadhyay",
+    "email": "aryan1@test.com",
+    "gender": "Male",
+    "mobile": "9876543210",
+    "dob": {
+      "day": "15",
+      "month": "May",
+      "year": "2000"
+    }
+  },
+  {
+    "firstName": "Riya",
+    "lastName": "Verma",
+    "email": "riya@test.com",
+    "gender": "Female",
+    "mobile": "9876543211",
+    "dob": {
+      "day": "10",
+      "month": "June",
+      "year": "1999"
+    }
+  },
+  {
+    "firstName": "Karan",
+    "lastName": "Singh",
+    "email": "karan@test.com",
+    "gender": "Male",
+    "mobile": "9876543212",
+    "dob": {
+      "day": "20",
+      "month": "March",
+      "year": "2001"
+    }
+  }
+]

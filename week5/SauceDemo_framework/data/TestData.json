@@ -1,0 +1,25 @@
+{
+  "users": {
+    "valid": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    }
+  },
+  "urls": {
+    "base": "https://www.saucedemo.com/"
+  },
+  "products": {
+    "backpack": "Sauce Labs Backpack",
+    "bikeLight": "Sauce Labs Bike Light",
+    "onesie": "Sauce Labs Onesie"
+  },
+  "customer": {
+    "firstName": "Automation",
+    "lastName": "Tester",
+    "zipCode": "302022"
+  }
+}
