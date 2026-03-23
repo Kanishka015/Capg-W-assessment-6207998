@@ -4,13 +4,13 @@ export class InventoryPage {
   readonly page: Page;
   readonly headerTitle: Locator;
   readonly cartBadge: Locator;
-  readonly cartIcon: Locator; 
+  readonly cartIcon: Locator;
 
   constructor(page: Page) {
     this.page = page;
     this.headerTitle = page.locator('.title');
     this.cartBadge = page.locator('.shopping_cart_badge');
-    this.cartIcon = page.locator('.shopping_cart_link'); 
+    this.cartIcon = page.locator('.shopping_cart_link');
   }
 
   async addItem(itemName: string) {
