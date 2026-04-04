@@ -33,3 +33,6 @@ build/
 
 # Misc
 .cache/
+
+package-lock.json
+package.json
